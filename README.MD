@@ -43,10 +43,14 @@ Below is a list of available lab scenarios:
 
 - **Directory**: `lab1-install-minikube-and-helm/`
 
-1. **Lab 2: Introduction to Pods**
+2. **Lab 2: Introduction to Pods**
 - Description: Learn how to create and manage pods, the smallest deployable units in Kubernetes.
 - Directory: `lab2-intro-to-pods/`
 
+3. **Lab 2: Introduction to Pods**
+- Description: In this lab, you'll learn how to create and manage Kubernetes deployments using both imperative and declarative methods.
+
+- Directory: `lab2-intro-to-deployments/`
 
 ## Contributing
 
